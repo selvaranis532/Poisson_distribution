@@ -1,4 +1,7 @@
 # Fitting Poisson  distribution
+
+## NAME : SELVARANI S
+## REGISTER NO : 212224040301
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
